@@ -14,3 +14,7 @@ The inital collaboration, was focused on coding in micropython the commands of e
     * Design and Build - found the design for the robot arm and assembled the pieces
 * Logan Garrett - Novice Eletrical Engineering Major
     * Coder - Handled the code to make the servos work. 
+## References and Link to the Robot Arm 
+* [EEZYbotARM MK2](https://www.thingiverse.com/thing:1454048)
+* [Build Tutorial we Followed](https://www.youtube.com/watch?v=R2MI-tpXyS4&t=34s)
+* [ChatGPT](https://chatgpt.com/) was used to help during the coding process. We used ChatGPT specifically to help get started, fix random errors we couldn't fix ourselves, and to understand the Raspberry Pi Pico Board.
