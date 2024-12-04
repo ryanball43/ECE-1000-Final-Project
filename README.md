@@ -9,5 +9,6 @@ The inital collaboration, was focused on coding in micropython the commands of e
 * Has claw with the ability to open and close in accordance to the clicking of the joystick.
 ## Who Are We? Dr. Bhattacharya's ECE - 1000 Students
 * Lloyd (Michael) Harris - Novice Eletrical Engineering Major
-* Ryan Ball - Novice Eletrical Engineering Major
+* *
+* Ryan Ball - Novice Computer Engineering Major
 * Logan Garrett - Novice Eletrical Engineering Major
