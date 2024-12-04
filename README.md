@@ -9,6 +9,8 @@ The inital collaboration, was focused on coding in micropython the commands of e
 * Has claw with the ability to open and close in accordance to the clicking of the joystick.
 ## Who Are We? Dr. Bhattacharya's ECE - 1000 Students
 * Lloyd (Michael) Harris - Novice Eletrical Engineering Major
-* *
+    * Builder - Wired the board to make sure the arm would function
 * Ryan Ball - Novice Computer Engineering Major
+    * Design and Build - found the design for the robot arm and assembled the pieces
 * Logan Garrett - Novice Eletrical Engineering Major
+    * Coder - Handled the code to make the servos work. 
